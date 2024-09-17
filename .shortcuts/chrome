@@ -1,0 +1,3 @@
+#!/data/data/com.termux/files/usr/bin/bash
+nohup ~/.shortcuts/chromium &
+exit 0
