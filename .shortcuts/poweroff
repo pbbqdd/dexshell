@@ -1,0 +1,2 @@
+#!/usr/bin/sh
+su - shell -c reboot -p

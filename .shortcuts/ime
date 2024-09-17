@@ -1,0 +1,2 @@
+#!/usr/bin/sh
+su - shell -c ime set 'com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME'
